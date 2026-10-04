@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/optimize.py": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/Network_Redesign_Dashboard.html" }
+  ]
+}
